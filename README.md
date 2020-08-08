@@ -1,6 +1,6 @@
 # diceapp
 
-A new Flutter dice application.
+A new Flutter dice application
 # screenshot 
 ![Screenshot_diceapp](https://user-images.githubusercontent.com/68682390/88272853-f86aee80-ccf6-11ea-841e-3cb7e81b4fd3.jpg)
 
